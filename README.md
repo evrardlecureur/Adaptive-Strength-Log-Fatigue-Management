@@ -41,7 +41,7 @@ Mark exercises as Hard or Easy to recover from to refine your weekly fatigue sco
 
 ### 3. Log Your Sessions
 Input your load and RPE. Watch your e1RM and Fatigue Index update in real-time.
-> ![Workout Log](TRAININGDAY.png)
+> ![Workout Log](TRAININGDAY.PNG)
 
 ---
 
