@@ -27,6 +27,15 @@ Every athlete is different. This tool adapts to **YOU**:
 * **Experience Level Scaling:** The math engine changes based on whether you are a Beginner, Intermediate, or Advanced lifter (see screenshots).
 * **Exercise Recovery Profiles:** Uses **HTR (Hard to Recover)** and **ETR (Easy to Recover)** labels. Heavy compound movements and isolation exercises are not treated equally, providing a truly personalized recovery score.
 
+### 📊 Programmation vs. Reality
+The Fatigue Index chart is a powerful visualization tool to compare your training plan with your actual performance.
+* **Blue Bars (Programmed):** The theoretical fatigue based on your planned sets and reps.
+* **Red Bars (Actual):** The real fatigue generated based on your completed sets and your reported RPE.
+
+> **Note:** The Red Bar (Actual Fatigue) becomes accurate only once the entire training week has been fully logged. This allows you to see if you pushed harder than planned or if you need to adjust the following week.
+
+> ![Fatigue Chart](FI.PNG)
+
 ---
 
 ## 📸 How to Use (Visual Guide)
