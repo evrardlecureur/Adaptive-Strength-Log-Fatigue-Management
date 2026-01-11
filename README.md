@@ -33,11 +33,11 @@ Every athlete is different. This tool adapts to **YOU**:
 
 ### 1. Set Your Level
 Select your current level to calibrate the Fatigue Index formulas.
-> ![Level Selection](LVL.png)
+> ![Level Selection](LVL.PNG)
 
 ### 2. Configure Exercise Difficulty (HTR/ETR)
 Mark exercises as Hard or Easy to recover from to refine your weekly fatigue score.
-> ![HTR ETR Setup](HTRETR.png)
+> ![HTR ETR Setup](HTRETR.PNG)
 
 ### 3. Log Your Sessions
 Input your load and RPE. Watch your e1RM and Fatigue Index update in real-time.
