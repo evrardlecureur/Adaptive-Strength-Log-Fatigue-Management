@@ -57,7 +57,7 @@ Input your load and RPE. Watch your e1RM and Fatigue Index update in real-time.
 ## 📥 Get Started
 To use this tool, simply click the link below and select **"Make a copy"**:
 
-👉 [**Download Powerlifting Training Log**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQF8wiFL6AyIdOfkOtvSZo9X3Ua4kZuX2qfy6zmhKfcoCC5nf8ewthdNd918Gh0nl5qIQYnJ3S26uJQ/pubhtml)
+👉 [**Download Powerlifting Training Log**](https://docs.google.com/spreadsheets/d/1hZ8lq0wzhrebZn8nsA7E1yQYH4Ge9rljGMMMxrZM5JI/edit?usp=drivesdk)
 
 ---
 
